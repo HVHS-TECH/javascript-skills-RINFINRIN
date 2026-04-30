@@ -1,1 +1,12 @@
-/* Paste your code from task 2 here */
+/****************************
+This is a block comment.
+Put your header comment here!
+****************************/
+console.log("Running t01_introduction.js")
+console.log("Hello my name is Ryan Szeto.")
+console.log("As of 2026 I am 15 years old")
+console.log("I was born in ",   2000 + 10); 
+console.log("I do not feel like telling anybody how much money I have because that is quite confidential infomation.")
+
+// This is a single line comment
+

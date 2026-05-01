@@ -10,6 +10,6 @@ var money = "$9000"
 var year = "2026"
 //main code
 console.log("hi "+ username);
-console.log("I am "+ userage);
+console.log("As of "+ year "I am "+ userage);
 console.log("I have "+ money);
 console.log("The current year is "+ year);

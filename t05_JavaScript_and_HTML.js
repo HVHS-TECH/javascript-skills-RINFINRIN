@@ -15,8 +15,8 @@ console.log("I was born in "+ (year - 15));
 console.log("I have "+ money);
 console.log("The current year is "+ year);
 
-<div id="JavaScriptOutput">
-    <p>This will be replaced</p>
-</div>
-const OUTPUT = document.getElementById("JavaScriptOutput");
-OUTPUT.innerHTML = "<h2>Added by Javascript</h2>";
+const OUTPUT = document.getElementById("JavaScriptOutput")
+OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
+OUTPUT.innerHTML += "<p>Hello " + username + "</p>";
+OUTPUT.innerHTML += "<p>Second paragraph line.</p>";
+OUTPUT.innerHTML += "<p>Thrird Paragraph line.</p>"

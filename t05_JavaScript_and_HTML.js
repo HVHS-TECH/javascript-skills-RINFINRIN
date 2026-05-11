@@ -19,4 +19,4 @@ const OUTPUT = document.getElementById("JavaScriptOutput")
 OUTPUT.innerHTML = "<h2>Added by JavaScript</h2>";
 OUTPUT.innerHTML += "<p>Hello " + userName + "</p>";
 OUTPUT.innerHTML += "<p>I was born in " + year + "</p>";
-OUTPUT.innerHTML += "<p>Thrird Paragraph line.</p>"
+OUTPUT.innerHTML += "<p>I don't really know what else to put here</p>"
